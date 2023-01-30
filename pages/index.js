@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by the name of Shiva. Om Namah Shivaye!<code>pages/index.js</code>
+          Get started by editing and making it beautiful.<code>pages/index.js</code>
         </p>
       </main>
 
